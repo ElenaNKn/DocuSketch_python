@@ -1,0 +1,7 @@
+python_version = "3.10" and higher
+
+Packages and libraries (except standard):
+pandas
+seaborn
+numpy
+matplotlib
