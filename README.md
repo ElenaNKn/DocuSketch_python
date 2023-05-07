@@ -49,8 +49,8 @@ This virtual environment is also used for `Notebook.ipynb` file. To open this fi
     
 `pipenv run jupyter notebook`   
    
-Then one can find `Notebook.ipynb` file, open and run it. This approach alows to run module `my_plot.py` within `Notebook.ipynb`.
+Then one can find `Notebook.ipynb` file, open and run it. This approach alows to run the module `my_plot.py` within `Notebook.ipynb`.
 
 ## **Contacts**   
    
-If you have any suggestions or comments about this project, please contact me via LinkedIn (https://www.linkedin.com/in/alena-kniazeva-a907bb197/ ) or email (elena.n.kniazeva@gmail.com).  
+If you have any suggestions or comments about this project, please contact me via LinkedIn ([https://www.linkedin.com/in/alena-n-kniazeva/]) or email (elena.n.kniazeva@gmail.com).  
