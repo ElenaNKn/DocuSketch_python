@@ -28,10 +28,10 @@ The repository contains the next files and folders:
 This project was written in python_version = "3.10"
 
 Packages and libraries, which are needed to run project files:
-pandas
-seaborn
-numpy
-matplotlib
+* pandas
+* seaborn
+* numpy
+* matplotlib
 
 One can install these libraries (with pip or Anaconda etc.) or install virtual environment (as descripted below) and run project files there.
 
